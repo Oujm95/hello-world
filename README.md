@@ -1,2 +1,3 @@
 # hello-world
 Just try to do sth...
+I hope this is a funny way to learn java.
